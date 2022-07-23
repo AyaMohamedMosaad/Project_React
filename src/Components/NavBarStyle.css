@@ -1,0 +1,39 @@
+
+
+.anchor{
+color: white;
+
+  font-size: 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.anchor:hover {
+
+  cursor: pointer;
+  color: darkred;
+
+}
+
+.anchor:active {
+  box-shadow: none;
+
+}
+.cont
+{
+    display: flex;
+    padding-top: 35px;
+}
+.contDrop
+{
+    padding-left: 1000px;
+    padding-top: 40px;
+    
+
+
+}
+
+.contDropc
+{
+    background-color: orangered;
+}
